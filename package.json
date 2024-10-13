@@ -1,0 +1,21 @@
+{
+  "name": "dave0xe7style",
+  "displayName": "dave0xE7Style",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dave0xE7Style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dave0xE7Style-color-theme.json"
+      }
+    ]
+  }
+}
