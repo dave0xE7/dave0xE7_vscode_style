@@ -1,11 +1,11 @@
 {
-	"name": "dave0xE7Style",
+	"name": "dave0xE7_vscode_styleStyle",
 	"colors": {
 		"editor.background": "#070707",
 		"editor.foreground": "#eeffff",
 		// "editor.selectionForeground": null,
-		"editor.selectionBackground": "#148e147d",
-		"editor.selectionHighlightBackground": "#add6ff26",
+		// "editor.selectionBackground": "#148e14",
+		"editor.selectionHighlightBackground": "#add6ff",
 		"editor.selectionHighlightBorder": "#259025ed",
 		"editor.lineHighlightBackground":"#ff0000",
 		// "editor.wordHighlightBackground": 
@@ -135,7 +135,7 @@
 		"editor.lineHighlightBorder": "#282828",
 		"editor.linkedEditingBackground": "#ff00004d",
 		"editor.rangeHighlightBackground": "#ffffff0b",
-		// "editor.selectionBackground": "#264f78",
+		"editor.selectionBackground": "#23CC23",
 		"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
 		"editor.stackFrameHighlightBackground": "#ffff0033",
@@ -742,7 +742,7 @@
     // "titleBar.activeBackground": "#0c0c0c",
     // "pickerGroup.border": "#FFFFFF1a",
     // "debugToolBar.background": "#161616",
-    // "selection.background": "#140987"
+    "selection.background": "#140987",
 	},
 
 	"tokenColors": [

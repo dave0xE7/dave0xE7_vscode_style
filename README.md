@@ -2,8 +2,10 @@
 
 ## my vscode color theme extension  
 
-![alt](./Screenshot.png)
+![alt](Screenshot.png)
 
 ## For more information
 
 * [VSCode extension guide on color-themes](https://code.visualstudio.com/api/extension-guides/color-theme#_create-a-new-color-theme)
+
+* [VSCode api reference theme color](https://code.visualstudio.com/api/references/theme-color#_editor-colors)

@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "dave0xE7Style",
+        "label": "dave0xE7 Style",
         "uiTheme": "vs-dark",
         "path": "./themes/dave0xE7Style-color-theme.json"
+      },
+      {
+        "label": "dave0xE7 Style Test",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Untitled-1.jsonc"
       }
     ]
   }
